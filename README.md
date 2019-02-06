@@ -1,4 +1,4 @@
-The repo is a clone of the original WikiEdu project repo. See the README on how to run the code at https://github.com/kyrrahnork/wiki
+This repo is a clone of the original WikiEdu project repo. See the README on how to run the code at https://github.com/kyrrahnork/wiki
 
 INDIVIDUAL CONTRIBUTIONS
 - Created all JSON objects, as well as the calls to implement them in the app.
